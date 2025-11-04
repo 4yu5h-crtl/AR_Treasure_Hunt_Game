@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6efe1c9e7dbf7b469b1c819a54e984e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hintText: {instanceID: 0}
+  - progressText: {instanceID: 0}
+  - congratsText: {instanceID: 0}
+  - treasureChest: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
