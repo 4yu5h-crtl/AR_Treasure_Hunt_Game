@@ -81,10 +81,3 @@ Here are a few previews from the AR Treasure Hunt game 🎯
   <img src="Media/T.jpg" alt="Gameplay Screenshot 4" width="30%"/>
 </p>
 
-
----
-
-## 📜 License  
-This project is released under the **MIT License**.  
-You’re free to use, modify, and share — just credit the author.
-
