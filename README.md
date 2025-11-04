@@ -68,7 +68,19 @@ Assets/
 ---
 
 ## 📸 Screenshots  
-*(Add gameplay screenshots or AR preview images here)*  
+
+Here are a few previews from the AR Treasure Hunt game 🎯  
+
+<p align="center">
+  <img src="Media/1.jpg" alt="Gameplay Screenshot 1" width="30%"/>
+  <img src="Media/2.jpg" alt="Gameplay Screenshot 2" width="30%"/>
+</p>
+
+<p align="center">
+  <img src="Media/3.jpg" alt="Gameplay Screenshot 3" width="30%"/>
+  <img src="Media/T.jpg" alt="Gameplay Screenshot 4" width="30%"/>
+</p>
+
 
 ---
 
